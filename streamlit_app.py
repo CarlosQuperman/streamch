@@ -6,7 +6,7 @@ import os # 파일 존재 여부 확인을 위해 import
 
 # --- 1. 페이지 기본 설정 ---
 st.set_page_config(
-    page_title="Fastai 이미지 분류기",
+    page_title="Fastai 이미지 분류기333",
     page_icon="🤖"
 )
 
