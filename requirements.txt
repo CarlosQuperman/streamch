@@ -5,12 +5,7 @@ streamlit
 pandas
 numpy
 plotly
-fastai==2.8.4
-torch==2.8.0
-torchvision==0.23.0
-pillow==11.3.0
-fastcore==1.8.12
-fasttransform==0.0.2
-plum-dispatch==2.5.8
+fastai2
+pillow
 gdown
 opencv-python-headless
