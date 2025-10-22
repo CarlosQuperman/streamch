@@ -141,7 +141,7 @@ if uploaded_file is not None:
 
     # 예측 수행
     with st.spinner("🧠 이미지를 분석 중입니다..."):
-        print(learner.predict(img))
+        st.write(learner.predict(img))
         prediction, pred_idx, probs = learner.predict(img)
 
     # --- 5. 결과 출력 ---
