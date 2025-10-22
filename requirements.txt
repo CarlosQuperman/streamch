@@ -10,7 +10,7 @@ torch==2.8.0
 torchvision==0.23.0
 pillow==11.3.0
 fastcore==1.8.12
-fasttransform==0.0.2
+fasttransform==0.3.3
 plum-dispatch==2.5.8
 gdown
 opencv-python-headless
