@@ -95,7 +95,7 @@ h1 {
 # --- 3. 모델 로드 ---
 
 # Google Drive 파일 ID
-file_id = '19dS6rAzHlGekODz1l2F020D9XMlhNDYS'
+file_id = '1bFkGvJ8DazzUWo688pRR1iySokSKI62B'
 model_path = 'model.pkl'
 
 # st.cache_resource: 모델과 같이 큰 리소스를 캐시합니다.
