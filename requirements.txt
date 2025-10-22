@@ -6,6 +6,7 @@ pandas
 numpy
 plotly
 fastai2
-pillow
+fastbook
+Pillow
 gdown
 opencv-python-headless
