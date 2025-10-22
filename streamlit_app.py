@@ -133,8 +133,8 @@ if uploaded_file is not None:
     # Fastai에서 예측을 위해 이미지를 처리
     # (주의: PILImage.create는 fastai 구버전일 수 있습니다. 최신 버전에 맞춰 바이트로 열기)
     try:
-        #img_bytes = uploaded_file.getvalue()
-        img = PILImage.create(uploaded_file)
+        img_bytes = uploaded_file.getvalue()
+        img = PILImage.create(img_bytes)
     except Exception as e:
         st.error(f"이미지 처리 중 오류 발생: {e}")
         st.stop()
