@@ -6,8 +6,6 @@ pandas
 numpy
 plotly
 fastai==2.8.4
-torch==2.8.0
-torchvision==0.23
 Pillow
 gdown
 opencv-python-headless
