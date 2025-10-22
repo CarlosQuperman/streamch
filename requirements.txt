@@ -8,8 +8,6 @@ plotly
 fastai==2.8.4
 torch==2.8.0
 torchvision==0.23.0
-fasttransform==0.3.3
-plum-dispatch==2.5.6
 pillow==11.3.0
 gdown
 opencv-python-headless
